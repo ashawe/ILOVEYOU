@@ -10,6 +10,14 @@
 >
 > — Wikipedia, [ILOVEYOU](https://en.wikipedia.org/wiki/ILOVEYOU)
 
+
+
+## NOTE: 
+### This is a talk on ILOVEYOU worm for my Reverse Engineering Class.
+There's an extra document in this repo (a pdf file) which is the pdf version of my class presentation.
+
+
+## From original repo:
 This is a formatted version of the **ILOVEYOU** worm also known as **Love
 Letter**. It includes comments which explains the routines that are used by the
 worm to infect and spread itself.
